@@ -1,4 +1,3 @@
-![](https://visitcount.itsvg.in/api?id=xStephx&icon=0&color=12)
 # Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStephx&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
