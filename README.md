@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=xStephx&color=red&abbreviated=true"/>
+
 # Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStephx&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
