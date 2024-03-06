@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=xStephx&color=red&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/>
 
 <h1>Hi 👋, I am Steph! </h1>
 
