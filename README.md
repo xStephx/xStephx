@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xStephx&theme=shadow_red&hide_border=false)
 
-### 💻 Tech Stack
+### 💻 Tech Skills
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" /></a>
