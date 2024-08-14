@@ -27,7 +27,3 @@
 
 [![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown&theme=dark)](https://github.com/xStephx) 
 
-# 🚀🚀🚀
-
-
-
