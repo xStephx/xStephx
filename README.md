@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/>
 
-# Hi 👋, I am Stefan Bojkovski! ➤ **`</>`** **`>_`** 👨‍💻🌐🚴🏋🏻‍♂️🚀
+# Hi 👋, I am Stefan Bojkovski! ➤ **`</>`** **`>_`** 👨‍💻🌐🚴🏋🏻‍♂️🚀❤️
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStephx&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
@@ -27,4 +27,3 @@
 <br>
 
 [![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown&theme=dark)](https://github.com/xStephx) 
-
