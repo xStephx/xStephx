@@ -29,4 +29,6 @@
 [![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown%20Author&theme=dark)](https://github.com/xStephx) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<hr>
 <!-- ZmxhZ3skdEB5XzByMWcxbkBsfQ== -->
+
