@@ -31,4 +31,6 @@
 
 _**<p align="center">Made with❤️ by © Steph</p>**_
 
+<p align="center">❄️❄️☃️❄️❄️🎄❄️❄️☃️❄️❄️</p>
+
 <!-- FLAG: ZmxhZ3skdEB5XzByMWcxbkBsfQ== -->
