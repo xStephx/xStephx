@@ -34,6 +34,4 @@ _**<p align="center">Made with❤️ by © Steph</p>**_
 
 <p align="center">❄️☃️❄️🎅❄️🎄❄️🎅❄️☃️❄️</p>
 
-<p align="center">Happy New Year & Merry Christmas</p>
-
 <!-- FLAG: ZmxhZ3skdEB5XzByMWcxbkBsfQ== -->
