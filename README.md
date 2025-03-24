@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" /></a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="36" height="36" alt="Kali Linux" /></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" width="36" height="36" alt="Kali Linux" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
   <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" /></a>
