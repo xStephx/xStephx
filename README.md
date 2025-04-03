@@ -28,6 +28,7 @@
 
 <details>
    <summary>Cybersecurity</summary> <br>
+      <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="NMAP" /></a>
 </details>
 
 <details>
