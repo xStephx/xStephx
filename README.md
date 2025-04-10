@@ -34,6 +34,7 @@
       <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/800px-Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" /></a>
       <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36" height="36" alt="SQLMAP" /></a>
       <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
+      <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
 </details>
 
 <details>
