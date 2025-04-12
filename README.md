@@ -36,6 +36,7 @@
       <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
       <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
       <a href="https://www.kali.org/tools/hashcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="36" height="36" alt="Hashcat" /></a>
+      <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" /></a>
 </details>
 
 <details>
