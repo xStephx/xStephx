@@ -37,6 +37,7 @@
       <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
       <a href="https://www.kali.org/tools/hashcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="36" height="36" alt="Hashcat" /></a>
       <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" /></a>
+      <a href="https://www.kali.org/tools/john/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="John the Ripper" /></a>
 </details>
 
 <details>
