@@ -11,8 +11,8 @@
 <details>
    <summary>Operating Systems</summary> <br>
      <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" width="36" height="36" alt="Kali Linux" /></a>
-     <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" /></a>
      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/200/parrot-security--v2.png" width="30" height="36" alt="Parrot Security" /></a>
+     <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" /></a>
 </details>
 
 <details>
