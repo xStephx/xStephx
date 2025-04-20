@@ -40,6 +40,7 @@
       <a href="https://www.kali.org/tools/john/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="John the Ripper" /></a>
       <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" /></a>
       <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" /></a>
+      <a href="https://www.kali.org/tools/set/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/set/images/set-logo.svg" width="36" height="36" alt="Social-Engineer Toolkit (SET)" /></a>
       <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/logo-6abcc86b.png" width="60" height="36" alt="Shodan" /></a>
 </details>
 
