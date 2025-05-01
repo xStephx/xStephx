@@ -43,6 +43,7 @@
       <a href="https://www.kali.org/tools/bloodhound/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="36" height="36" alt="BloodHound" /></a>
       <a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="36" height="36" alt="Bettercap" /></a>
       <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" /></a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
       <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/logo-6abcc86b.png" width="60" height="36" alt="Shodan" /></a>
 </details>
 
