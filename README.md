@@ -40,6 +40,7 @@
       <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
       <a href="https://www.kali.org/tools/hashcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="36" height="36" alt="Hashcat" /></a>
       <a href="https://www.kali.org/tools/john/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="John the Ripper" /></a>
+      <a href="https://www.kali.org/tools/airgeddon/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" width="36" height="36" alt="Airgeddon" /></a>
       <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" /></a>
       <a href="https://www.kali.org/tools/hping3/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hping3/images/hping3-logo.svg" width="36" height="36" alt="hping3" /></a>
       <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://wiki.elvis.science/images/7/70/OWASP_ZAP.png" width="36" height="36" alt="OWASP ZAP" /></a>
@@ -51,7 +52,6 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
       <a href="https://www.kali.org/tools/hash-identifier/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="36" height="36" alt="Hash Identifier" /></a>
-      <a href="https://www.kali.org/tools/airgeddon/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" width="36" height="36" alt="Airgeddon" /></a>
 </details>
 
 <details>
