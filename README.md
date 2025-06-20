@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Stefan Bojkovski!
-### ╰┈┈➤ **`</>`** **`>_`** **`☦︎`** **`⚡︎`** **`☘︎`** **`☆`** **`㊙`** **`☠︎︎`** **`☣`** **`ッ`** **`🇲🇰`** 👾👨‍💻🌐⚡🔍⚙️🤖🏋🏻‍♂️🚴🎮⚔️🛡️🚀🔥❤️ <br>
+### ╰┈┈➤ **`</>`** **`>_`** **`☦︎`** **`⚡︎`** **`☘︎`** **`☆`** **`㊙`** **`☠︎︎`** **`☣`** **`ッ`** **`🇲🇰`** 👾👨‍💻🌐⚡🔍⚙️🤖🏋🏻‍♂️🚴🎮🛡️⚔️🚀🔥❤️ <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStephx&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
