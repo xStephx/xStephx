@@ -53,6 +53,7 @@
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
       <a href="https://www.kali.org/tools/hash-identifier/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="36" height="36" alt="Hash Identifier" /></a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
+      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" /></a>
 </details>
 
 <details>
