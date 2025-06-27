@@ -29,6 +29,8 @@
 
 <details>
    <summary>Cybersecurity</summary> <br>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
+      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" /></a>
       <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="NMAP" /></a>
       <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" width="36" height="36" alt="Metasploit" /></a>
       <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="36" height="36" alt="Burp Suite" /></a>
@@ -52,8 +54,6 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
       <a href="https://www.kali.org/tools/hash-identifier/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="36" height="36" alt="Hash Identifier" /></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
-      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" /></a>
 </details>
 
 <details>
