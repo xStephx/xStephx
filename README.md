@@ -57,6 +57,7 @@
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
+      <a href="https://www.kali.org/tools/subfinder/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/subfinder/images/subfinder-logo.svg" width="36" height="36" alt="Subfinder" /></a>
 </details>
 
 <details>
