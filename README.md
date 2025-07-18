@@ -70,6 +70,7 @@
      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
      <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/640px-Vmware_workstation_16_icon.svg.png"       width="36" height="36" alt="VMware Workstation" /></a>  
      <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="36" height="36" alt="Cisco Packet Tracer" /></a>
+   <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" width="36" height="36" alt="Microsoft Office 365" /></a>
 </details>
 
 <br>
