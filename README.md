@@ -53,7 +53,7 @@
       <a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="36" height="36" alt="Bettercap" /></a>
       <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" /></a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
-      <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://appteka.store/api/1/icon/get?hash=OnsukPEYzL%2BEzdGvj6VJpJxcEF30QCjaZpEGrJb0qGnz6Q6L%2BUXv%2FW2ZeUUMR3XS" width="36" height="36" alt="Shodan" /></a>
+      <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1540742654/logo-icon_400x400.png" width="36" height="36" alt="Shodan" /></a>
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
