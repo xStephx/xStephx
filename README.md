@@ -38,6 +38,7 @@
       <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36" height="36" alt="SQLMAP" /></a>
       <a href="https://www.kali.org/tools/set/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/set/images/set-logo.svg" width="36" height="36" alt="Social-Engineer Toolkit (SET)" /></a>
       <a href="https://www.kali.org/tools/subfinder/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/subfinder/images/subfinder-logo.svg" width="36" height="36" alt="Subfinder" /></a>
+      <a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="36" height="36" alt="Amass" /></a>
       <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" width="36" height="36" alt="enum4linux" /></a>
       <a href="https://www.kali.org/tools/dnsenum/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" width="36" height="36" alt="dnsenum" /></a>
       <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
