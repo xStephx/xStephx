@@ -36,6 +36,7 @@
       <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" width="36" height="36" alt="Metasploit" /></a>
       <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="36" height="36" alt="Burp Suite" /></a>
       <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/800px-Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" /></a>
+      <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="36" height="36" alt="Netcat" /></a>
       <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36" height="36" alt="SQLMAP" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
       <a href="https://www.kali.org/tools/set/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/set/images/set-logo.svg" width="36" height="36" alt="Social-Engineer Toolkit (SET)" /></a>
@@ -61,7 +62,6 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
-      <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="36" height="36" alt="Netcat" /></a>
 </details>
 
 <details>
