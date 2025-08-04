@@ -40,6 +40,7 @@
       <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36" height="36" alt="SQLMAP" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
       <a href="https://www.kali.org/tools/set/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/set/images/set-logo.svg" width="36" height="36" alt="Social-Engineer Toolkit (SET)" /></a>
+      <a href="https://www.kali.org/tools/maltego/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="36" height="36" alt="Maltego" /></a>
       <a href="https://www.kali.org/tools/dvwa/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dvwa/images/dvwa-logo.svg" width="36" height="36" alt="DVWA" /></a>
       <a href="https://www.kali.org/tools/subfinder/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/subfinder/images/subfinder-logo.svg" width="36" height="36" alt="Subfinder" /></a>
       <a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="36" height="36" alt="Amass" /></a>
@@ -64,7 +65,6 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
-      <a href="https://www.kali.org/tools/maltego/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="36" height="36" alt="Maltego" /></a>
 </details>
 
 <details>
