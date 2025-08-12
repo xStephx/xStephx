@@ -68,7 +68,6 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
-      <a href="https://remmina.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Org.remmina.Remmina.svg" width="36" height="36" alt="Remmina" /></a>
 </details>
 
 <details>
@@ -82,7 +81,7 @@
      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
      <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/640px-Vmware_workstation_16_icon.svg.png"       width="36" height="36" alt="VMware Workstation" /></a>  
      <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="36" height="36" alt="Cisco Packet Tracer" /></a>
-   
+     <a href="https://remmina.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Org.remmina.Remmina.svg" width="36" height="36" alt="Remmina" /></a>
 </details>
 
 <br>
