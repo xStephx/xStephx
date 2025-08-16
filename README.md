@@ -80,10 +80,10 @@
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
      <a href= "https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"><img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/28114019/corel-draw-2020-logo-270FEE465B-seeklogo.com.png" width="36" height="36" alt="Corel DRAW" /></a>
      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-     <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/640px-Vmware_workstation_16_icon.svg.png"       width="36" height="36" alt="VMware Workstation" /></a>  
+     <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/640px-Vmware_workstation_16_icon.svg.png"       width="36" height="36" alt="VMware Workstation" /></a> 
+     <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noreferrer"><img src="https://www.techspot.com/images2/downloads/topdownload/2022/09/2022-09-14-ts3_thumbs-eba.png" width="36" height="36" alt="Arduino" /></a>
      <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="36" height="36" alt="Cisco Packet Tracer" /></a>
      <a href="https://remmina.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Org.remmina.Remmina.svg" width="36" height="36" alt="Remmina" /></a>
-     <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noreferrer"><img src="https://www.techspot.com/images2/downloads/topdownload/2022/09/2022-09-14-ts3_thumbs-eba.png" width="36" height="36" alt="Arduino" /></a>
 </details>
 
 <br>
