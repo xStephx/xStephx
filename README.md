@@ -70,6 +70,7 @@
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
+      <a href="https://www.openvas.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/apideck/image/upload/v1581262378/catalog/openvas-org/icon128x128.png" width="36" height="36" alt="OpenVAS" /></a>
 </details>
 
 <details>
