@@ -71,6 +71,7 @@
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
       <a href="https://www.openvas.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/apideck/image/upload/v1581262378/catalog/openvas-org/icon128x128.png" width="36" height="36" alt="OpenVAS" /></a>
+      <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/virustotal_logo_icon_171247.png" width="36" height="36" alt="VirusTotal" /></a>
 </details>
 
 <details>
