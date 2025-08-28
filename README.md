@@ -40,6 +40,7 @@
       <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/800px-Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" /></a>
       <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="36" height="36" alt="Netcat" /></a>
       <a href="https://www.kali.org/tools/gobuster/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="36" height="36" alt="Gobuster" /></a>
+      <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" /></a>
       <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/virustotal_logo_icon_171247.png" width="30" height="30" alt="VirusTotal" /></a>
       <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36" height="36" alt="SQLMAP" /></a>
       <a href="https://www.kali.org/tools/wpscan/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="36" height="36" alt="WPScan" /></a>
@@ -66,7 +67,6 @@
       <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://wiki.elvis.science/images/7/70/OWASP_ZAP.png" width="36" height="36" alt="OWASP ZAP" /></a>
       <a href="https://www.kali.org/tools/bloodhound/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="36" height="36" alt="BloodHound" /></a>
       <a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="36" height="36" alt="Bettercap" /></a>
-      <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" /></a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
       <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++" /></a>
       <a href="https://search.censys.io/" target="_blank" rel="noreferrer"><img src="https://store.servicenow.com/8d20b608879c2ad07ffc87fc0ebb354b.iix" width="36" height="36" alt="Censys" /></a>
