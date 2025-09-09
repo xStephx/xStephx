@@ -57,8 +57,8 @@
       <a href="https://www.kali.org/tools/dnsenum/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" width="36" height="36" alt="dnsenum" /></a>
       <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" width="36" height="36" alt="enum4linux" /></a>
       <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
-      <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
       <a href="https://www.kali.org/tools/medusa/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" width="36" height="36" alt="Medusa" /></a>
+      <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
       <a href="https://www.kali.org/tools/patator/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/patator/images/patator-logo.svg" width="36" height="36" alt="Patator" /></a>
       <a href="https://www.kali.org/tools/hash-identifier/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="36" height="36" alt="Hash Identifier" /></a>
       <a href="https://www.kali.org/tools/mimikatz/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" width="36" height="36" alt="Mimikatz" /></a>
