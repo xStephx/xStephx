@@ -77,6 +77,7 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" /></a>
+      <a href="https://www.kali.org/tools/binwalk/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="36" height="36" alt="Binwalk" /></a>
 </details>
 
 <details>
