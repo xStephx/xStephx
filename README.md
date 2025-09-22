@@ -34,11 +34,11 @@
 
 <details>
    <summary>Cybersecurity</summary> <br>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
-      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" /></a>
-      <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="NMAP" /></a>
-      <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" width="36" height="36" alt="Metasploit" /></a>
-      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="36" height="36" alt="Burp Suite" /></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" title="Bash" /></a>
+      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" title="PowerShell" /></a>
+      <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="NMAP" title="NMAP" /></a>
+      <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" width="36" height="36" alt="Metasploit" title="Metasploit" /></a>
+      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="36" height="36" alt="Burp Suite" title="Burp Suite" /></a>
       <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://wiki.elvis.science/images/7/70/OWASP_ZAP.png" width="36" height="36" alt="OWASP ZAP" /></a>
       <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/800px-Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" /></a>
       <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="36" height="36" alt="Netcat" /></a>
