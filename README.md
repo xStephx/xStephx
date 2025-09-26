@@ -55,12 +55,12 @@
       <a href="https://www.kali.org/tools/dvwa/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dvwa/images/dvwa-logo.svg" width="36" height="36" alt="DVWA" title="DVWA" /></a>
       <a href="https://www.kali.org/tools/subfinder/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/subfinder/images/subfinder-logo.svg" width="36" height="36" alt="Subfinder" title="Subfinder" /></a>
       <a href="https://www.kali.org/tools/theharvester/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" width="36" height="36" alt="TheHarvester" title="TheHarvester" /></a>
-      <a href="https://www.kali.org/tools/recon-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="36" height="36" alt="Recon-ng" /></a>
-      <a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="36" height="36" alt="Amass" /></a>
-      <a href="https://www.kali.org/tools/dnsenum/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" width="36" height="36" alt="dnsenum" /></a>
-      <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" width="36" height="36" alt="enum4linux" /></a>
-      <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" /></a>
-      <a href="https://www.kali.org/tools/medusa/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" width="36" height="36" alt="Medusa" /></a>
+      <a href="https://www.kali.org/tools/recon-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="36" height="36" alt="Recon-ng" title="Recon-ng" /></a>
+      <a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="36" height="36" alt="Amass" title="Amass" /></a>
+      <a href="https://www.kali.org/tools/dnsenum/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" width="36" height="36" alt="dnsenum" title="dnsenum" /></a>
+      <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" width="36" height="36" alt="enum4linux" title="enum4linux" /></a>
+      <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="36" height="36" alt="Nikto" title="Nikto" /></a>
+      <a href="https://www.kali.org/tools/medusa/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" width="36" height="36" alt="Medusa" title="Medusa" /></a>
       <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="36" height="36" alt="Hydra" /></a>
       <a href="https://www.kali.org/tools/patator/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/patator/images/patator-logo.svg" width="36" height="36" alt="Patator" /></a>
       <a href="https://www.kali.org/tools/mimikatz/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" width="36" height="36" alt="Mimikatz" /></a>
