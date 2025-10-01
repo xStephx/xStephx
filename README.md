@@ -14,6 +14,7 @@
      <a href="https://www.raspberrypi.com/software/operating-systems/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/langfr-250px-Raspberry_Pi_logo.svg.png" width="30" height="36" alt="Raspbian OS" title="Raspbian OS" /></a>
      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/200/parrot-security--v2.png" width="30" height="36" alt="Parrot Security" title="Parrot Security" /></a>
      <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" title="Windows 10 Pro" /></a>
+     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" title="Ubuntu" /></a>
 </details>
 
 <details>
