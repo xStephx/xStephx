@@ -97,8 +97,8 @@
      <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="36" height="36" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" /></a>
      <a href="https://remmina.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Org.remmina.Remmina.svg" width="36" height="36" alt="Remmina" title="Remmina" /></a>
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>  
      <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" title="Microsoft Azure" /></a>
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 </details>
 
 <br>
