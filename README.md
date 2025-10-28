@@ -70,6 +70,7 @@
       <a href="https://www.kali.org/tools/hash-identifier/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="36" height="36" alt="Hash Identifier" title="Hash Identifier" /></a>
       <a href="https://www.kali.org/tools/john/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="John the Ripper" title="John the Ripper" /></a>
       <a href="https://www.kali.org/tools/hashcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="36" height="36" alt="Hashcat" title="Hashcat" /></a>
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
       <a href="https://www.kali.org/tools/airgeddon/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" width="36" height="36" alt="Airgeddon" title="Airgeddon" /></a>
       <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" title="Aircrack-ng" /></a>
       <a href="https://www.kali.org/tools/hping3/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hping3/images/hping3-logo.svg" width="36" height="36" alt="hping3" title="hping3" /></a>
@@ -83,7 +84,6 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
-      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
 </details>
 
 <details>
