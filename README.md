@@ -73,6 +73,7 @@
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
       <a href="https://www.kali.org/tools/airgeddon/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" width="36" height="36" alt="Airgeddon" title="Airgeddon" /></a>
       <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" title="Aircrack-ng" /></a>
+      <a href="https://www.kali.org/tools/fern-wifi-cracker/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/fern-wifi-cracker/images/fern-wifi-cracker-logo.svg" width="36" height="36" alt="Fern Wifi Cracker" title="Fern Wifi Cracker" /></a>
       <a href="https://www.kali.org/tools/hping3/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hping3/images/hping3-logo.svg" width="36" height="36" alt="hping3" title="hping3" /></a>
       <a href="https://www.kali.org/tools/bloodhound/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="36" height="36" alt="BloodHound" title="BloodHound" /></a>
       <a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="36" height="36" alt="Bettercap" title="Bettercap" /></a>
@@ -84,7 +85,6 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
-      <a href="https://www.kali.org/tools/fern-wifi-cracker/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/fern-wifi-cracker/images/fern-wifi-cracker-logo.svg" width="36" height="36" alt="Fern Wifi Cracker" title="Fern Wifi Cracker" /></a>
 </details>
 
 <details>
