@@ -78,6 +78,7 @@
       <a href="https://www.kali.org/tools/bloodhound/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="36" height="36" alt="BloodHound" title="BloodHound" /></a>
       <a href="https://www.kali.org/tools/bettercap/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="36" height="36" alt="Bettercap" title="Bettercap" /></a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="36" height="36" alt="Python"  title="Python" /></a>
+      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
       <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++" title="C++" /></a>
       <a href="https://search.censys.io/" target="_blank" rel="noreferrer"><img src="https://store.servicenow.com/8d20b608879c2ad07ffc87fc0ebb354b.iix" width="36" height="36" alt="Censys" title="Censys" /></a>
       <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1540742654/logo-icon_400x400.png" width="36" height="36" alt="Shodan" title="Shodan" /></a>
@@ -85,7 +86,6 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 </details>
 
 <details>
