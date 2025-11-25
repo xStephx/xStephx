@@ -48,6 +48,7 @@
       <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://wiki.elvis.science/images/7/70/OWASP_ZAP.png" width="36" height="36" alt="OWASP ZAP" title="OWASP ZAP" /></a>
       <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/800px-Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" title="Wireshark" /></a>
       <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elastic-icon.png" width="36" height="36" alt="Elastic" title="Elastic" /></a>
+      <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank" rel="noreferrer"><img src="https://www.signl4.com/wp-content/uploads/2024/04/AzureSentinal_Logo.png" width="36" height="36" alt="Microsoft Sentinel" title="Microsoft Sentinel" /></a>
       <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="36" height="36" alt="Netcat" title="Netcat" /></a>
       <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" title="Ffuf" /></a>
       <a href="https://www.kali.org/tools/gobuster/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="36" height="36" alt="Gobuster" title="Gobuster" /></a>
@@ -90,7 +91,6 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
-      <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank" rel="noreferrer"><img src="https://www.signl4.com/wp-content/uploads/2024/04/AzureSentinal_Logo.png" width="36" height="36" alt="Microsoft Sentinel" title="Microsoft Sentinel" /></a>
 </details>
 
 <details>
