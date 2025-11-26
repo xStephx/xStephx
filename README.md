@@ -91,6 +91,7 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
+      <a href="https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html" target="_blank" rel="noreferrer"><img src="https://www.stevenbright.com/2019/06/configure-splunk-to-use-a-vmware-vcenter-psc-as-a-saml-idp/images/cover.png" width="36" height="36" alt="Splunk" title="Splunk" /></a>
 </details>
 
 <details>
