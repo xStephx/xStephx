@@ -57,6 +57,7 @@
       <a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="36" height="36" alt="Ffuf" title="Ffuf" /></a>
       <a href="https://www.kali.org/tools/gobuster/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="36" height="36" alt="Gobuster" title="Gobuster" /></a>
       <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/virustotal_logo_icon_171247.png" width="30" height="30" alt="VirusTotal" title="VirusTotal" /></a>
+      <a href="https://virustotal.github.io/yara/" target="_blank" rel="noreferrer"><img src="https://virustotal.github.io/yara/images/logo.png" width="36" height="36" alt="YARA" title="YARA" /></a>
       <a href="https://www.kali.org/tools/eyewitness/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/eyewitness/images/eyewitness-logo.svg" width="36" height="36" alt="Eyewitness" title="Eyewitness" /></a>
       <a href="https://www.kali.org/tools/binwalk/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="36" height="36" alt="Binwalk" title="Binwalk" /></a>
       <a href="https://www.kali.org/tools/set/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/set/images/set-logo.svg" width="36" height="36" alt="Social-Engineer Toolkit (SET)"  title="Social-Engineer Toolkit (SET)" /></a>
@@ -97,7 +98,6 @@
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
       <a href="https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS" target="_blank" rel="noreferrer"><img src="https://github.com/peass-ng/PEASS-ng/raw/master/winPEAS/winPEASexe/images/winpeas.png" width="36" height="36" alt="winPEAS" title="winPEAS" /></a>
       <a href="https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS" target="_blank" rel="noreferrer"><img src="https://www.heise.de/download/media/linpeas/128_1-1-30.png" width="36" height="36" alt="linPEAS" title="linPEAS" /></a>
-      <a href="https://virustotal.github.io/yara/" target="_blank" rel="noreferrer"><img src="https://virustotal.github.io/yara/images/logo.png" width="36" height="36" alt="YARA" title="YARA" /></a>
 </details>
 
 <details>
