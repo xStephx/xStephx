@@ -96,8 +96,8 @@
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
-      <a href="https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS" target="_blank" rel="noreferrer"><img src="https://github.com/peass-ng/PEASS-ng/raw/master/winPEAS/winPEASexe/images/winpeas.png" width="36" height="36" alt="winPEAS" title="winPEAS" /></a>
       <a href="https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS" target="_blank" rel="noreferrer"><img src="https://www.heise.de/download/media/linpeas/128_1-1-30.png" width="36" height="36" alt="linPEAS" title="linPEAS" /></a>
+      <a href="https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS" target="_blank" rel="noreferrer"><img src="https://github.com/peass-ng/PEASS-ng/raw/master/winPEAS/winPEASexe/images/winpeas.png" width="36" height="36" alt="winPEAS" title="winPEAS" /></a>
 </details>
 
 <details>
