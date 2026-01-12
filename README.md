@@ -42,8 +42,8 @@
      <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="Wordpress" title="Wordpress" /></a>
      <a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a>
      <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ktrJ12qa5f65&format=png" width="36" height="36" alt="Webflow" title="Webflow" /></a>
-     <a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" width="36" height="36" alt="Replit" title="Replit" /></a>
      <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="Vercel" title="Vercel" /></a>
+     <a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" width="36" height="36" alt="Replit" title="Replit" /></a>
 </details>
 
 <details>
