@@ -102,11 +102,11 @@
       <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1540742654/logo-icon_400x400.png" width="36" height="36" alt="Shodan" title="Shodan" /></a>
       <a href="https://github.com/volatilityfoundation/volatility" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" title="Volatility" /></a>
       <a href="https://www.exterro.com/digital-forensics-software/ftk-imager/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" title="FTK Imager" /></a>
+      <a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cyberchef.png" width="36" height="36" alt="CyberChef" title="CyberChef" /></a>
       <a href="https://www.kali.org/tools/snort/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/snort/images/snort-logo.svg" width="36" height="36" alt="Snort" title="Snort" /></a>
       <a href="https://www.kali.org/tools/autopsy/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="36" height="36" alt="Autopsy" title="Autopsy" /></a>
       <a href="https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS" target="_blank" rel="noreferrer"><img src="https://www.heise.de/download/media/linpeas/128_1-1-30.png" width="36" height="36" alt="linPEAS" title="linPEAS" /></a>
       <a href="https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS" target="_blank" rel="noreferrer"><img src="https://github.com/peass-ng/PEASS-ng/raw/master/winPEAS/winPEASexe/images/winpeas.png" width="36" height="36" alt="winPEAS" title="winPEAS" /></a>
-      <a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cyberchef.png" width="36" height="36" alt="CyberChef" title="CyberChef" /></a>
 </details>
 
 <details>
