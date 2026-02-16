@@ -46,6 +46,7 @@
      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/47/3/netlify-icon-logo-png_seeklogo-477950.png" width="36" height="36" alt="Netlify" title="Netlify" /></a>
      <a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" width="36" height="36" alt="Replit" title="Replit" /></a>
      <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="Vercel" title="Vercel" /></a>
+     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
 </details>
 
 <details>
