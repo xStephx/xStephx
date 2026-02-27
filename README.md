@@ -116,8 +116,7 @@
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" title="Git" /></a>
      <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" width="36" height="36" alt="Microsoft Office 365" title="Microsoft Office 365" /></a> 
      <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" title="Notion" /></a>  
-     <a href="https://medium.com/" target="_blank" rel="noreferrer"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/medium-app-icon.png" width="36" height="36" alt="Medium" title="Medium" /></a>
-     <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/960px-OpenAI_logo_2025_%28symbol%29.svg.png?20250205041901" width="36" height="36" alt="OpenAI" title="OpenAI" /></a>   
+     <a href="https://medium.com/" target="_blank" rel="noreferrer"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/medium-app-icon.png" width="36" height="36" alt="Medium" title="Medium" /></a>  
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" title="Photoshop" /></a>
      <a href= "https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"><img src="https://qoilaqurrota.wordpress.com/wp-content/uploads/2024/03/coreldraw-logo-2871394b44-seeklogo.com_-1.png" width="36" height="36" alt="Corel DRAW" title="Corel DRAW" /></a>
@@ -130,6 +129,7 @@
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services" /></a>  
      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>  
      <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" title="Microsoft Azure" /></a>
+     <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/960px-OpenAI_logo_2025_%28symbol%29.svg.png?20250205041901" width="36" height="36" alt="OpenAI" title="OpenAI" /></a> 
 </details>
 
 <br>
