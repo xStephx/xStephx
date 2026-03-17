@@ -15,7 +15,7 @@
      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/200/parrot-security--v2.png" width="30" height="36" alt="Parrot Security" title="Parrot Security" /></a>
      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" title="Ubuntu" /></a>
      <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" title="Windows 10 Pro" /></a>
-     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/960px-Android_logo_2019_%28stacked%29.svg.png" alt="Andrioid" title="Andrioid" width="36" height="36" /></a>
+     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="Andrioid" title="Andrioid" width="36" height="36" /></a>
      <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
 </details>
 
