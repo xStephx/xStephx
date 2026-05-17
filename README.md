@@ -114,7 +114,7 @@
 
 <details>
    <summary>Other Tools</summary> <br>
-     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code" /></a>
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code" /></a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" title="Git" /></a>
      <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" width="36" height="36" alt="Microsoft Office 365" title="Microsoft Office 365" /></a> 
      <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" title="Notion" /></a>  
